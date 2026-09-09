@@ -1,0 +1,4 @@
+pydistsim
+opencv-python-headless
+notebook
+ipykernel
